@@ -84,7 +84,7 @@ if (isset($_POST["create"])) {
       border: 1px solid #ccc;
       padding: 10px;
       border-radius: 4px;
-      font-size: 16px;
+      font-size: 15px;
     }
 
     .small-placeholder::placeholder {
